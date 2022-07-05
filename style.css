@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(37, 34, 22, .7);
 }
 
 .d-bloc button:hover {
@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(39, 34, 22, .6);
 }
 
 .d-bloc .a-btn:hover,
@@ -362,6 +362,23 @@ a:hover {
     z-index: 2;
 }
 
+.titre {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 18px;
+}
+.citation {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 18px;
+}
+.citation-2 {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 14px;
+}
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -651,7 +668,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #272216!important;
 }
 
 .container {
@@ -736,7 +753,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #ffffff!important;
 }
 
 .portfolio-thumb {
@@ -753,7 +770,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(39, 34, 22, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -775,17 +792,17 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #212121!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #212121!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #212121!important;
 }
 
 .ltc-white {
